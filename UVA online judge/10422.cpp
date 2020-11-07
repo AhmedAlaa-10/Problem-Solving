@@ -1,3 +1,4 @@
+// To find the problem, google uva 10422.
 #include <bits/stdc++.h>
 
 using namespace std; 
